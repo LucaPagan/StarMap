@@ -1,0 +1,272 @@
+[
+  {
+    "id": "M1",
+    "ra": 83.633,
+    "dec": 22.014,
+    "mag": 8.4,
+    "name": "Crab Nebula",
+    "bv": -0.27,
+    "sp": null
+  },
+  {
+    "id": "M8",
+    "ra": 271.075,
+    "dec": -24.385,
+    "mag": 6.0,
+    "name": "Lagoon Nebula",
+    "bv": 0.20,
+    "sp": "O"
+  },
+  {
+    "id": "M13",
+    "ra": 250.421,
+    "dec": 36.461,
+    "mag": 5.8,
+    "name": "Hercules Cluster",
+    "bv": 0.67,
+    "sp": "F6"
+  },
+  {
+    "id": "M16",
+    "ra": 274.7,
+    "dec": -13.815,
+    "mag": 6.4,
+    "name": "Eagle Nebula",
+    "bv": -0.11,
+    "sp": "O"
+  },
+  {
+    "id": "M17",
+    "ra": 275.25,
+    "dec": -16.177,
+    "mag": 6.0,
+    "name": "Omega Nebula",
+    "bv": 0.04,
+    "sp": "B"
+  },
+  {
+    "id": "M20",
+    "ra": 270.6,
+    "dec": -23.03,
+    "mag": 6.3,
+    "name": "Trifid Nebula",
+    "bv": 0.03,
+    "sp": "O"
+  },
+  {
+    "id": "M27",
+    "ra": 299.9,
+    "dec": 22.721,
+    "mag": 7.5,
+    "name": "Dumbbell Nebula",
+    "bv": null,
+    "sp": "O"
+  },
+  {
+    "id": "M31",
+    "ra": 10.684,
+    "dec": 41.269,
+    "mag": 3.4,
+    "name": "Andromeda Galaxy",
+    "bv": 0.93,
+    "sp": "G5"
+  },
+  {
+    "id": "M33",
+    "ra": 23.462,
+    "dec": 30.66,
+    "mag": 5.7,
+    "name": "Triangulum Galaxy",
+    "bv": 0.63,
+    "sp": "F8"
+  },
+  {
+    "id": "M42",
+    "ra": 83.822,
+    "dec": -5.391,
+    "mag": 4.0,
+    "name": "Orion Nebula",
+    "bv": 0.04,
+    "sp": "O"
+  },
+  {
+    "id": "M45",
+    "ra": 56.6,
+    "dec": 24.117,
+    "mag": 1.6,
+    "name": "Pleiades",
+    "bv": -0.04,
+    "sp": "B"
+  },
+  {
+    "id": "M51",
+    "ra": 202.469,
+    "dec": 47.195,
+    "mag": 8.4,
+    "name": "Whirlpool Galaxy",
+    "bv": 0.72,
+    "sp": "F8"
+  },
+  {
+    "id": "M57",
+    "ra": 283.397,
+    "dec": 33.029,
+    "mag": 8.8,
+    "name": "Ring Nebula",
+    "bv": null,
+    "sp": "O"
+  },
+  {
+    "id": "M63",
+    "ra": 198.95,
+    "dec": 42.03,
+    "mag": 8.6,
+    "name": "Sunflower Galaxy",
+    "bv": 0.73,
+    "sp": "G0"
+  },
+  {
+    "id": "M64",
+    "ra": 194.195,
+    "dec": 21.683,
+    "mag": 8.5,
+    "name": "Black Eye Galaxy",
+    "bv": 0.86,
+    "sp": "G3"
+  },
+  {
+    "id": "M78",
+    "ra": 86.775,
+    "dec": 0.08,
+    "mag": 8.3,
+    "name": "Casper the Ghost Nebula",
+    "bv": null,
+    "sp": "B"
+  },
+  {
+    "id": "M81",
+    "ra": 148.888,
+    "dec": 69.065,
+    "mag": 6.9,
+    "name": "Bode's Galaxy",
+    "bv": 0.91,
+    "sp": "G4"
+  },
+  {
+    "id": "M82",
+    "ra": 148.967,
+    "dec": 69.68,
+    "mag": 8.4,
+    "name": "Cigar Galaxy",
+    "bv": 0.88,
+    "sp": "G0"
+  },
+  {
+    "id": "M97",
+    "ra": 168.696,
+    "dec": 55.02,
+    "mag": 9.9,
+    "name": "Owl Nebula",
+    "bv": null,
+    "sp": "O"
+  },
+  {
+    "id": "M101",
+    "ra": 210.802,
+    "dec": 54.349,
+    "mag": 7.9,
+    "name": "Pinwheel Galaxy",
+    "bv": 0.45,
+    "sp": "F5"
+  },
+  {
+    "id": "M104",
+    "ra": 189.997,
+    "dec": -11.623,
+    "mag": 8.0,
+    "name": "Sombrero Galaxy",
+    "bv": 0.91,
+    "sp": "G4"
+  },
+  {
+    "id": "M4",
+    "ra": 245.9,
+    "dec": -26.525,
+    "mag": 5.6,
+    "name": "Scorpion Cluster",
+    "bv": 1.04,
+    "sp": "G8"
+  },
+  {
+    "id": "M6",
+    "ra": 265.2,
+    "dec": -32.253,
+    "mag": 4.2,
+    "name": "Butterfly Cluster",
+    "bv": -0.01,
+    "sp": "B8"
+  },
+  {
+    "id": "M7",
+    "ra": 268.2,
+    "dec": -34.8,
+    "mag": 3.3,
+    "name": "Ptolemy's Cluster",
+    "bv": 0.35,
+    "sp": "F0"
+  },
+  {
+    "id": "M22",
+    "ra": 279.1,
+    "dec": -23.905,
+    "mag": 5.1,
+    "name": "Sagittarius Cluster",
+    "bv": 0.81,
+    "sp": "G2"
+  },
+  {
+    "id": "M35",
+    "ra": 91.6,
+    "dec": 24.333,
+    "mag": 5.3,
+    "name": "Gemini Cluster",
+    "bv": 0.17,
+    "sp": "B9"
+  },
+  {
+    "id": "M39",
+    "ra": 323.3,
+    "dec": 48.45,
+    "mag": 4.6,
+    "name": "Cygnus Cluster",
+    "bv": 0.08,
+    "sp": "A0"
+  },
+  {
+    "id": "M44",
+    "ra": 130.0,
+    "dec": 19.983,
+    "mag": 3.7,
+    "name": "Beehive Cluster",
+    "bv": 0.52,
+    "sp": "F6"
+  },
+  {
+    "id": "M46",
+    "ra": 115.6,
+    "dec": -14.817,
+    "mag": 6.1,
+    "name": "Puppis Cluster",
+    "bv": 0.08,
+    "sp": "A0"
+  },
+  {
+    "id": "M92",
+    "ra": 259.4,
+    "dec": 43.137,
+    "mag": 6.4,
+    "name": "Hercules Globular Cluster",
+    "bv": 0.65,
+    "sp": "F7"
+  }
+]
