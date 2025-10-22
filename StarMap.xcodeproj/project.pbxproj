@@ -15,7 +15,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3CBACB722E9FBA070038CFB5 /* Exceptions for "StarMap" folder in "StarMap" target */ = {
+		3C5F3F5B2EA23A4400475BA7 /* Exceptions for "StarMap" folder in "StarMap" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -28,7 +28,7 @@
 		1388CF3B2E9525DC0058E7E4 /* StarMap */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				3CBACB722E9FBA070038CFB5 /* Exceptions for "StarMap" folder in "StarMap" target */,
+				3C5F3F5B2EA23A4400475BA7 /* Exceptions for "StarMap" folder in "StarMap" target */,
 			);
 			path = StarMap;
 			sourceTree = "<group>";
